@@ -4,8 +4,6 @@ test 01
 
 - one
 - two
-- test
-- sample
 - aaa
 - bbb
 - ccc
