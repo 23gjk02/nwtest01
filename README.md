@@ -14,3 +14,5 @@ test 01
 1. abc
 1. xyz
 1. apple
+2. pinapple
+3. banana
